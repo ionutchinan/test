@@ -1,7 +1,11 @@
 tralala
-SERGIO BULLSHIT v2
+<<<<<<< HEAD
+Oriol BULLSHIT
+>>>>>>> feature
 conflicte baaa
 inca un conflict baa
 ce plm se intampla aici
 asdfghjkhlks   dsfghwu
-erthsavg
+<<<<<<< HEAD
+last addition
+>>>>>>> feature
