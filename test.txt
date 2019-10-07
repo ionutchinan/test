@@ -1,11 +1,1 @@
-tralala
-<<<<<<< HEAD
-Oriol BULLSHIT
->>>>>>> feature
-conflicte baaa
-inca un conflict baa
-ce plm se intampla aici
-asdfghjkhlks   dsfghwu
-<<<<<<< HEAD
-last addition
->>>>>>> feature
+
